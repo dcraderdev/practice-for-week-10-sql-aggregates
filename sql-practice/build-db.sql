@@ -41,5 +41,7 @@ VALUES
   (4, 'Tunnel'),
   (4, 'Flopping Fish'),
   (5, 'Crinkle Ball'),
+  (6, 'Yarn'),
   (7, 'Cheetos'),
+  (7, 'Yarn'),
   (8, 'Yarn');
